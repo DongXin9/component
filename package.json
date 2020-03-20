@@ -1,0 +1,19 @@
+{
+  "name": "component",
+  "version": "1.0.0",
+  "description": "第三方组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongXin9/component.git"
+  },
+  "author": "DongXin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DongXin9/component/issues"
+  },
+  "homepage": "https://github.com/DongXin9/component#readme"
+}
