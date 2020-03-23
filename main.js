@@ -50,7 +50,7 @@ $(function(){
       colHeaders:[
         '语言名称',
         '排名',
-        '升降',
+        '升或降',
         '变化幅度'
       ],
       manualColumnResize: true,
