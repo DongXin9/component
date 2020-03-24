@@ -11,6 +11,7 @@ $(function(){
     ["Visual Basic .NET", 6, "降", "-1.17%"],
     ["JavaScript", 7, "降", "-0.85%"] 
   ];
+
   var option = {
     title:{
         text:'JavaScript语言排序变化'
@@ -18,7 +19,7 @@ $(function(){
     tooltip: {
       trigger: 'axis',
       formatter: function (param) {
-        return param[0].seriesName+'<br>' + param[0].name + ": " + param[0].value;
+        return '<div style="text-align:center">'+param[0].seriesName+'<br>' + param[0].name + ": " + param[0].value+'</div>';
       } 
     },
     legend:{
