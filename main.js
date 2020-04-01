@@ -54,7 +54,9 @@ $(function(){
         '变化幅度'
       ],
       manualColumnResize: true,
-      manualRowResize: true
+      manualRowResize: true,
+      //隐藏下面的信息
+      licenseKey: 'non-commercial-and-evaluation'
   })
 
 })
